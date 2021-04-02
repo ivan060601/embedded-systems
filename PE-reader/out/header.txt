@@ -1,0 +1,28 @@
+******* DOS HEADER *******
+e_magic		0x5a4d
+e_cblp		0x90
+e_cp		0x3
+e_crlc		0x0
+e_cparhdr	0x4
+e_minalloc	0x0
+e_maxalloc	0xffff
+e_ss		0x0
+e_sp		0xb8
+e_csum		0x0
+e_ip		0x0
+e_cs		0x0
+e_lfarlc	0x40
+e_ovno		0x0
+e_oemid		0x0
+e_oeminfo	0x0
+e_lfanew	0x128
+******* NT HEADER *******
+Signature	0x17744
+******* FILE HEADER *******
+Machine					0x8664
+NumberOfSections		0xf
+SizeOfOptionalHeader	0xf0
+TimeDateStamp			0x6055be97
+NumberOfSymbols			0x4cd
+PointerToSymbolTable	0x7600
+Characteristics			0x27
